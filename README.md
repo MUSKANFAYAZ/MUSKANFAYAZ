@@ -8,10 +8,6 @@
  ## 💫 About Me:
  I'm currently a student <br>I'm enthusiast about Web development<br>Data structures and algorithm in Java<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
-</div>
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muskanfayaz81) 
