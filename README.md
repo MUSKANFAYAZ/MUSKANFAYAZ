@@ -6,7 +6,7 @@
 
 
  ## 💫 About Me:
- I'm currently a student <br>I'm enthusiast about Web development <br>
+ I'm currently a student <br>I'm enthusiast about Web development<br>Data structures and algorithm in Java<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
@@ -28,13 +28,3 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUSKANFAYAZ&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MUSKANFAYAZ&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANFAYAZ&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MUSKANFAYAZ&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
