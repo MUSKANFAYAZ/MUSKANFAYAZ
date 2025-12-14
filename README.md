@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Muskan, a frontend developer 👨‍💻 and open-source enthusiast</div>  
+### <div align="center">I'm Muskan, a full-stack developer 👨‍💻 and open-source enthusiast</div>  
 
 - 🔭 I’m currently working on React based projects  
 - 🌱 I’m currently learning Node.js and MongoDB  
