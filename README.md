@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MaatruCare** and **SkySnap**
 - 🌱 I’m currently mastering the **Machine Learning**
-- 🎓 Student at **SJCE, Mysuru** and active member of **IEEE SPS**
+- 🎓 Student at **SJCE, Mysuru** and active member of **IEEE-SPS**
 - ❓ Ask me about **DSA**
 - ⚡ Fun fact: I use **tabs over spaces**
 - 📄 View my [Resume](https://drive.google.com/drive/u/0/folders/1R7VskXakqKIil3kTzaR9GEU5S2CYs3md)
